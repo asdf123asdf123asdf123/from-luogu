@@ -1,7 +1,7 @@
 # 1.链接的世界
 
 | [目录](https://www.luogu.com.cn/paste/gao4ysgt) | [2.一些东西](https://www.luogu.com.cn/paste/i9ugncw1) | [3.模板](https://www.luogu.com.cn/paste/pobkt52h) | [4.友链（友情链接）](https://www.luogu.com.cn/paste/4d27nay3)| [5.中国摸鱼协会](https://www.luogu.com.cn/team/45115)
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 
 # **[我的主题](https://www.luogu.com.cn/theme/design/55047)**
 
@@ -20,4 +20,4 @@
 # [全球聊天系统 world chat](https://asdf123asdf123asdf123.github.io/world-chat/main.html)
 
 | [目录](https://www.luogu.com.cn/paste/gao4ysgt) | [2.一些东西](https://www.luogu.com.cn/paste/i9ugncw1) | [3.模板](https://www.luogu.com.cn/paste/pobkt52h) | [4.友链（友情链接）](https://www.luogu.com.cn/paste/4d27nay3)| [5.中国摸鱼协会](https://www.luogu.com.cn/team/45115)
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
